@@ -2,8 +2,6 @@
 
 ## Fullstack Software Engineer
 
-Bachelor of Applied Information Technology Student @ [Waikato Institute of Technology](https://wintec.ac.nz/)
-
 Freelance Web & Software Developer
 
 ## Skills
